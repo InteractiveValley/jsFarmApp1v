@@ -1,0 +1,10 @@
+{
+  "name": "ApiRestFarmApp",
+  "version": "0.0.1",
+  "description": "Ejemplo de Api Rest",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^3.21.2",
+    "mongoose": "latest"
+  }
+}
